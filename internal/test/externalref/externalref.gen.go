@@ -27,10 +27,10 @@ type Container struct {
 // Base64 encoded, gzipped, json marshaled Swagger object
 var swaggerSpec = []string{
 
-	"H4sIAAAAAAAC/5yPQU7EMAxF72JYRtOR2GXHcAC4AfJkPNSotaPEIKEqd0dJKa1gQcUqtvzf/z8TBB2j",
-	"Coll8BPk0NOIbXxQMWShVJeYNFIypnbS8ysFe8Y63ya6goebbjXqvly6x6a7h+IW5LwPOW2Q8BfyrSul",
-	"OFgyf5UWHKm+9hEJPGRLLC//qrbGnHbHlB8fwsuFjVVweNrglt7ILegsn1GWqzZXtqHewME7pcwqdane",
-	"kQQjg4e7w/FwBAcRra+NSvkMAAD//3vXjDblAQAA",
+	"H4sIAAAAAAAC/5yQwU7DMAyG38VwjNZJ3HJjewB4A+SlHjNa7SgxSKjKu6OklFbiQNmptvz///c3IwQd",
+	"ogqJZfAj5HChAdt4VDFkoVSXmDRSMqZ20tMbBXvBOt8nOoOHu24J6r5Tuqeme4TiZstpm+WwsoS/LD+6",
+	"UoqDmfmrtOBA9WufkcBDtsTyelO1BXP4B0YoG/XbIMcJsn4B7Hs2VsHr84pn6Z3czJrkk5XlrK0G27Xe",
+	"wMEHpcwqdanZkQQjg4eH3X63BwcR7VJ/oZSvAAAA//9yAGhlFgIAAA==",
 }
 
 // GetSwagger returns the content of the embedded swagger specification file

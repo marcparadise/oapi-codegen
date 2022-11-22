@@ -4,3 +4,9 @@ components:
       properties:
         name:
           type: string
+        nested:
+          $ref: "#/components/schemas/ObjectC"
+    ObjectC:
+      properties:
+        name:
+          type: string
